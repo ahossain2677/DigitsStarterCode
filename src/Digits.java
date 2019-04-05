@@ -10,6 +10,11 @@ public class Digits
     //represents num
     public Digits (int num)
     {
+     ArrayList<integer> digitList = new ArrayList<int> List2
+         for(num=0;num<digitList.size;num++)
+         {
+         List2.add(digitList.index(num-1,num))
+         }
         //implemented in part (a)
     }
     public boolean isStrictlyIncreasing()
